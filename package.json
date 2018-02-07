@@ -1,0 +1,19 @@
+{
+  "name": "d-copy",
+  "version": "1.0.0",
+  "description": "深拷贝数组，对象，Map，Set",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/w995928555/d-copy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w995928555/d-copy/issues"
+  },
+  "homepage": "https://github.com/w995928555/d-copy#readme"
+}
