@@ -1,5 +1,5 @@
 {
-  "name": "d-copy",
+  "name": "wy-copy",
   "version": "1.0.0",
   "description": "深拷贝数组，对象，Map，Set",
   "main": "index.js",
